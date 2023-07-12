@@ -1,5 +1,5 @@
 # 📃Projeto DSMeta
 
-DSMeta é um projeto voltado para lidar com a comunicação de um empresa de vendas, onde se é gerado um relatorio de cada vendedor.
+DSMeta é um projeto que serve para lidar com uma empresa de vendas, onde se é gerado um relatorio das vendas.
 
 ## Ficou SHOW! 💥.
